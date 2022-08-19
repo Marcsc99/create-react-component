@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "make-your-component",
+  "version": "1.0.0",
+  "description": "App that helps you making new react components",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marcsc99/create-react-component.git"
+  },
+  "keywords": ["custom", "components", "web", "site", "react", "reactjs", "react-component"],
+  "author": "Marc Sanchez Civantos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcsc99/create-react-component/issues"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "styled-components": "^5.3.5"
+  }
+}
